@@ -1,0 +1,5 @@
+com\exemplo\supermercado\Util\PostgresConnection.class
+com\exemplo\supermercado\Model\ProdutoEstoque.class
+com\exemplo\supermercado\resources\JakartaEE10Resource.class
+com\exemplo\supermercado\Model\Produto.class
+com\exemplo\supermercado\JakartaRestConfiguration.class
